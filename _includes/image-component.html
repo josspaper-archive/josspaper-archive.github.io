@@ -1,0 +1,6 @@
+{% for imgData in site.data.imgData %}
+        <a href="imgs/{{ imgData.name }}" data-toggle="lightbox" data-footer="{{ imgData.caption }}" data-gallery="example-gallery" class="col-sm-4">
+            <img src="imgs/{{ imgData.name }}" class="img-fluid">
+            <p>{{ imgData.caption }}</p>
+        </a>
+{% endfor %}
