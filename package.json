@@ -1,0 +1,22 @@
+{
+  "name": "josspaper-archive.github.io",
+  "version": "1.0.0",
+  "description": "This repository stores the degree project of Annette An-Jen Liu",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josspaper-archive/josspaper-archive.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josspaper-archive/josspaper-archive.github.io/issues"
+  },
+  "homepage": "https://github.com/josspaper-archive/josspaper-archive.github.io#readme",
+  "dependencies": {
+    "isotope-layout": "^3.0.6"
+  }
+}
